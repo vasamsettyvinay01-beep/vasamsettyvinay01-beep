@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="1160" height="760" viewBox="0 0 1160 760" role="img">
 <title>Live engineering telemetry</title>
-<desc>2 public repositories, 0 public stars, 53 contributions in the last year.</desc>
+<desc>3 public repositories, 0 public stars, 56 contributions in the last year.</desc>
 <rect width="1160" height="760" fill="#070B14"/>
 <defs>
   <pattern id="telemetry" width="32" height="32" patternUnits="userSpaceOnUse">
@@ -13,13 +13,13 @@
 <text x="40" y="56" fill="#EDF7FF" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="28" font-weight="700" text-anchor="start">LIVE ENGINEERING TELEMETRY</text>
 <text x="40" y="88" fill="#93A9BF" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="400" text-anchor="start">Public GitHub data, refreshed daily. Not a realtime monitor.</text>
 <rect x="40" y="116" width="255" height="92" rx="4" fill="#0B1323" stroke="#2A4A68" stroke-width="1"/>
-<text x="58" y="158" fill="#EDF7FF" font-family="Cascadia Mono, Cascadia Code, Consolas, Menlo, monospace" font-size="28" font-weight="700" text-anchor="start">2</text>
+<text x="58" y="158" fill="#EDF7FF" font-family="Cascadia Mono, Cascadia Code, Consolas, Menlo, monospace" font-size="28" font-weight="700" text-anchor="start">3</text>
 <text x="58" y="186" fill="#93A9BF" font-family="Cascadia Mono, Cascadia Code, Consolas, Menlo, monospace" font-size="13" font-weight="400" text-anchor="start">PUBLIC REPOSITORIES</text>
 <rect x="315" y="116" width="255" height="92" rx="4" fill="#0B1323" stroke="#2A4A68" stroke-width="1"/>
 <text x="333" y="158" fill="#EDF7FF" font-family="Cascadia Mono, Cascadia Code, Consolas, Menlo, monospace" font-size="28" font-weight="700" text-anchor="start">0</text>
 <text x="333" y="186" fill="#93A9BF" font-family="Cascadia Mono, Cascadia Code, Consolas, Menlo, monospace" font-size="13" font-weight="400" text-anchor="start">PUBLIC STARS</text>
 <rect x="590" y="116" width="255" height="92" rx="4" fill="#0B1323" stroke="#2A4A68" stroke-width="1"/>
-<text x="608" y="158" fill="#EDF7FF" font-family="Cascadia Mono, Cascadia Code, Consolas, Menlo, monospace" font-size="28" font-weight="700" text-anchor="start">53</text>
+<text x="608" y="158" fill="#EDF7FF" font-family="Cascadia Mono, Cascadia Code, Consolas, Menlo, monospace" font-size="28" font-weight="700" text-anchor="start">56</text>
 <text x="608" y="186" fill="#93A9BF" font-family="Cascadia Mono, Cascadia Code, Consolas, Menlo, monospace" font-size="13" font-weight="400" text-anchor="start">CONTRIBUTIONS / YEAR</text>
 <rect x="865" y="116" width="255" height="92" rx="4" fill="#0B1323" stroke="#2A4A68" stroke-width="1"/>
 <text x="883" y="158" fill="#EDF7FF" font-family="Cascadia Mono, Cascadia Code, Consolas, Menlo, monospace" font-size="28" font-weight="700" text-anchor="start">778,722</text>
@@ -380,17 +380,17 @@
 <rect x="790" y="287" width="12" height="12" rx="1" fill="#0B1323" stroke="none" stroke-width="1"/>
 <rect x="790" y="302" width="12" height="12" rx="1" fill="#00E5FF" stroke="none" stroke-width="1"/>
 <rect x="790" y="317" width="12" height="12" rx="1" fill="#00C2D6" stroke="none" stroke-width="1"/>
-<rect x="790" y="332" width="12" height="12" rx="1" fill="#1A6F8A" stroke="none" stroke-width="1"/>
+<rect x="790" y="332" width="12" height="12" rx="1" fill="#123044" stroke="none" stroke-width="1"/>
 <rect x="790" y="347" width="12" height="12" rx="1" fill="#00E5FF" stroke="none" stroke-width="1"/>
-<rect x="790" y="362" width="12" height="12" rx="1" fill="#1A6F8A" stroke="none" stroke-width="1"/>
-<rect x="805" y="272" width="12" height="12" rx="1" fill="#1A6F8A" stroke="none" stroke-width="1"/>
+<rect x="790" y="362" width="12" height="12" rx="1" fill="#123044" stroke="none" stroke-width="1"/>
+<rect x="805" y="272" width="12" height="12" rx="1" fill="#123044" stroke="none" stroke-width="1"/>
 <rect x="805" y="287" width="12" height="12" rx="1" fill="#0B1323" stroke="none" stroke-width="1"/>
 <rect x="805" y="302" width="12" height="12" rx="1" fill="#0B1323" stroke="none" stroke-width="1"/>
 <rect x="805" y="317" width="12" height="12" rx="1" fill="#0B1323" stroke="none" stroke-width="1"/>
 <rect x="805" y="332" width="12" height="12" rx="1" fill="#0B1323" stroke="none" stroke-width="1"/>
 <rect x="805" y="347" width="12" height="12" rx="1" fill="#0B1323" stroke="none" stroke-width="1"/>
 <rect x="805" y="362" width="12" height="12" rx="1" fill="#0B1323" stroke="none" stroke-width="1"/>
-<rect x="820" y="272" width="12" height="12" rx="1" fill="#0B1323" stroke="none" stroke-width="1"/>
+<rect x="820" y="272" width="12" height="12" rx="1" fill="#00C2D6" stroke="none" stroke-width="1"/>
 <text x="40" y="430" fill="#00E5FF" font-family="Cascadia Mono, Cascadia Code, Consolas, Menlo, monospace" font-size="13" font-weight="400" text-anchor="start">LANGUAGE SHARE</text>
 <text x="620" y="430" fill="#00E5FF" font-family="Cascadia Mono, Cascadia Code, Consolas, Menlo, monospace" font-size="13" font-weight="400" text-anchor="start">RECENT PUBLIC ACTIVITY</text>
 <text x="40" y="468" fill="#EDF7FF" font-family="Cascadia Mono, Cascadia Code, Consolas, Menlo, monospace" font-size="14" font-weight="400" text-anchor="start">TYPESCRIPT</text>
@@ -417,6 +417,6 @@
 <text x="638" y="546" fill="#00E5FF" font-family="Cascadia Mono, Cascadia Code, Consolas, Menlo, monospace" font-size="13" font-weight="400" text-anchor="start">JUN 18</text>
 <text x="720" y="546" fill="#EDF7FF" font-family="Cascadia Mono, Cascadia Code, Consolas, Menlo, monospace" font-size="14" font-weight="400" text-anchor="start">myportfolio</text>
 <text x="638" y="570" fill="#93A9BF" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" text-anchor="start">Immersive AI-native portfolio</text>
-<text x="40" y="690" fill="#93A9BF" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13" font-weight="400" text-anchor="start">Language share is GitHub Linguist bytes summed across public repositories. Contributions are the last-year profile</text>
-<text x="40" y="708" fill="#93A9BF" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13" font-weight="400" text-anchor="start">calendar. Stars are stargazer counts on those public repositories.</text>
+<text x="40" y="690" fill="#93A9BF" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13" font-weight="400" text-anchor="start">Language share is GitHub Linguist bytes across public repositories except this profile repo. Contributions are the</text>
+<text x="40" y="708" fill="#93A9BF" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13" font-weight="400" text-anchor="start">last-year profile calendar. Stars count every public repository.</text>
 </svg>

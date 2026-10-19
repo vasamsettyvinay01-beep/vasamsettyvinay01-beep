@@ -83,7 +83,7 @@ READY TO BUILD
   <img alt="Public GitHub telemetry. Repository count, stars, last-year contributions, language bytes, contribution calendar, language share, and recent public activity." src="./assets/activity/telemetry.svg" width="1160">
 </picture>
 
-Language share is GitHub Linguist bytes summed across public repositories. Contributions are the last-year profile calendar. Stars are stargazer counts on those public repositories. Figures are regenerated daily. This is not a realtime monitor.
+Language share is GitHub Linguist bytes across public repositories except this profile repository. Contributions are the last-year profile calendar. Stars count every public repository. Figures are regenerated daily. This is not a realtime monitor.
 
 ## Tools
 

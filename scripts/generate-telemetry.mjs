@@ -86,8 +86,9 @@ function collect() {
     "--paginate",
   ]);
   const publicRepos = repos.filter((repo) => repo.private !== true && repo.fork !== true);
+  const projectRepos = publicRepos.filter((repo) => repo.name !== LOGIN);
   const languages = new Map();
-  for (const repo of publicRepos) {
+  for (const repo of projectRepos) {
     const stats = fetchJson(["api", `repos/${LOGIN}/${repo.name}/languages`]);
     for (const [name, bytes] of Object.entries(stats)) {
       languages.set(name, (languages.get(name) || 0) + bytes);
@@ -97,7 +98,7 @@ function collect() {
   const calendar = fetchJson(["api", "graphql", "-f", `query=${query}`]);
   const weeks = calendar.data.user.contributionsCollection.contributionCalendar.weeks;
   const totalContributions = calendar.data.user.contributionsCollection.contributionCalendar.totalContributions;
-  const activity = [...publicRepos]
+  const activity = [...projectRepos]
     .sort((a, b) => new Date(b.pushed_at) - new Date(a.pushed_at))
     .slice(0, 3)
     .map((repo) => ({
@@ -112,6 +113,7 @@ function collect() {
     publicRepos: user.public_repos,
     inspectedPublicRepos: publicRepos.length,
     publicStars: publicRepos.reduce((sum, repo) => sum + (repo.stargazers_count || 0), 0),
+    projectRepos: projectRepos.length,
     contributionsLastYear: totalContributions,
     languageBytes: languageEntries.reduce((sum, entry) => sum + entry.bytes, 0),
     languages: shares(languageEntries),
@@ -192,7 +194,7 @@ function desktop(data) {
     parts.push(t(720, y, item.repo, { size: 14, fill: C.text, family: MONO }));
     parts.push(t(638, y + 24, item.label, { size: 15, fill: C.muted }));
   });
-  const note = "Language share is GitHub Linguist bytes summed across public repositories. Contributions are the last-year profile calendar. Stars are stargazer counts on those public repositories.";
+  const note = "Language share is GitHub Linguist bytes across public repositories except this profile repo. Contributions are the last-year profile calendar. Stars count every public repository.";
   wrap(note, 120).forEach((row, index) => {
     parts.push(t(40, 690 + index * 18, row, { size: 13, fill: C.muted }));
   });
@@ -243,7 +245,7 @@ function mobile(data) {
     y += 92;
   }
   y += 8;
-  const note = "Language share is GitHub Linguist bytes across public repositories. Contributions are the last-year profile calendar.";
+  const note = "Language share excludes this profile repository. Contributions are the last-year profile calendar.";
   for (const row of wrap(note, 48)) {
     parts.push(t(32, y, row, { size: 15, fill: C.muted }));
     y += 22;

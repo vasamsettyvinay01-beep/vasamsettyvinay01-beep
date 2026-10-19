@@ -16,11 +16,19 @@ const LEVELS = ["#0B1323", "#123044", "#1A6F8A", "#00C2D6", "#00E5FF"];
 const MONTHS = ["JAN", "FEB", "MAR", "APR", "MAY", "JUN", "JUL", "AUG", "SEP", "OCT", "NOV", "DEC"];
 
 function gh(args) {
-  return execFileSync("gh", args, {
-    encoding: "utf8",
-    maxBuffer: 20_000_000,
-    stdio: ["ignore", "pipe", "pipe"],
-  });
+  const env = { ...process.env };
+  if (!env.GH_TOKEN && env.GITHUB_TOKEN) env.GH_TOKEN = env.GITHUB_TOKEN;
+  try {
+    return execFileSync("gh", args, {
+      encoding: "utf8",
+      maxBuffer: 20_000_000,
+      env,
+      stdio: ["ignore", "pipe", "pipe"],
+    });
+  } catch (error) {
+    const stderr = error.stderr ? error.stderr.toString() : error.message;
+    throw new Error(`GitHub API request failed: ${stderr}`);
+  }
 }
 
 function fetchJson(args) {

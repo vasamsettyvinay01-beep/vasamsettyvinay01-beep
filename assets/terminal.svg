@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="612" viewBox="0 0 1040 612" role="img">
+<title>AI lab terminal</title>
+<desc>Terminal transcript for Vinay Vasamsetty, Founder and AI Systems Engineer. Focus areas include agentic AI systems, retrieval-augmented generation, AI infrastructure, intelligent automation, and full-stack engineering.</desc>
+<rect width="1040" height="612" fill="#070B14"/>
+<defs>
+  <pattern id="term" width="32" height="32" patternUnits="userSpaceOnUse">
+    <path d="M32 0 H0 V32" fill="none" stroke="#00E5FF" stroke-opacity="0.075" stroke-width="1"/>
+  </pattern>
+</defs>
+<rect width="1040" height="612" fill="url(#term)"/>
+<rect x="0.5" y="0.5" width="1039" height="611" fill="none" stroke="#2A4A68" stroke-width="1"/>
+<rect x="0" y="0" width="1040" height="52" rx="0" fill="#0B1323" stroke="none" stroke-width="1"/>
+<line x1="0" y1="52" x2="1040" y2="52" stroke="#2A4A68" stroke-width="1" stroke-opacity="1" stroke-linecap="square"/>
+<circle cx="28" cy="26" r="5" fill="#93A9BF" stroke="none" stroke-width="1.25" stroke-opacity="1"/>
+<circle cx="46" cy="26" r="5" fill="#00E5FF" stroke="none" stroke-width="1.25" stroke-opacity="1"/>
+<circle cx="64" cy="26" r="5" fill="#398BFF" stroke="none" stroke-width="1.25" stroke-opacity="1"/>
+<text x="520" y="32" fill="#93A9BF" font-family="Cascadia Mono, Cascadia Code, Consolas, Menlo, monospace" font-size="14" font-weight="400" text-anchor="middle">ai-lab   ·   session 01</text>
+<text x="1016" y="32" fill="#00E5FF" font-family="Cascadia Mono, Cascadia Code, Consolas, Menlo, monospace" font-size="13" font-weight="400" text-anchor="end">SYS.OK</text>
+<text x="28" y="88" fill="#00E5FF" font-family="Cascadia Mono, Cascadia Code, Consolas, Menlo, monospace" font-size="18" font-weight="400" text-anchor="start">vinay@ai-lab:~$ </text>
+<text x="200.8" y="88" fill="#EDF7FF" font-family="Cascadia Mono, Cascadia Code, Consolas, Menlo, monospace" font-size="18" font-weight="400" text-anchor="start">whoami</text>
+<text x="28" y="116" fill="#93A9BF" font-family="Cascadia Mono, Cascadia Code, Consolas, Menlo, monospace" font-size="18" font-weight="400" text-anchor="start">Vinay Vasamsetty</text>
+<text x="28" y="144" fill="#93A9BF" font-family="Cascadia Mono, Cascadia Code, Consolas, Menlo, monospace" font-size="18" font-weight="400" text-anchor="start">Founder &amp; AI Systems Engineer</text>
+<text x="28" y="184.6" fill="#00E5FF" font-family="Cascadia Mono, Cascadia Code, Consolas, Menlo, monospace" font-size="18" font-weight="400" text-anchor="start">vinay@ai-lab:~$ </text>
+<text x="200.8" y="184.6" fill="#EDF7FF" font-family="Cascadia Mono, Cascadia Code, Consolas, Menlo, monospace" font-size="18" font-weight="400" text-anchor="start">focus</text>
+<text x="28" y="212.6" fill="#9470FF" font-family="Cascadia Mono, Cascadia Code, Consolas, Menlo, monospace" font-size="18" font-weight="400" text-anchor="start">&gt;</text>
+<text x="46" y="212.6" fill="#93A9BF" font-family="Cascadia Mono, Cascadia Code, Consolas, Menlo, monospace" font-size="18" font-weight="400" text-anchor="start">Agentic AI Systems</text>
+<text x="28" y="240.6" fill="#9470FF" font-family="Cascadia Mono, Cascadia Code, Consolas, Menlo, monospace" font-size="18" font-weight="400" text-anchor="start">&gt;</text>
+<text x="46" y="240.6" fill="#93A9BF" font-family="Cascadia Mono, Cascadia Code, Consolas, Menlo, monospace" font-size="18" font-weight="400" text-anchor="start">Retrieval-Augmented Generation</text>
+<text x="28" y="268.6" fill="#9470FF" font-family="Cascadia Mono, Cascadia Code, Consolas, Menlo, monospace" font-size="18" font-weight="400" text-anchor="start">&gt;</text>
+<text x="46" y="268.6" fill="#93A9BF" font-family="Cascadia Mono, Cascadia Code, Consolas, Menlo, monospace" font-size="18" font-weight="400" text-anchor="start">AI Infrastructure</text>
+<text x="28" y="296.6" fill="#9470FF" font-family="Cascadia Mono, Cascadia Code, Consolas, Menlo, monospace" font-size="18" font-weight="400" text-anchor="start">&gt;</text>
+<text x="46" y="296.6" fill="#93A9BF" font-family="Cascadia Mono, Cascadia Code, Consolas, Menlo, monospace" font-size="18" font-weight="400" text-anchor="start">Intelligent Automation</text>
+<text x="28" y="324.6" fill="#9470FF" font-family="Cascadia Mono, Cascadia Code, Consolas, Menlo, monospace" font-size="18" font-weight="400" text-anchor="start">&gt;</text>
+<text x="46" y="324.6" fill="#93A9BF" font-family="Cascadia Mono, Cascadia Code, Consolas, Menlo, monospace" font-size="18" font-weight="400" text-anchor="start">Full-Stack Engineering</text>
+<text x="28" y="365.2" fill="#00E5FF" font-family="Cascadia Mono, Cascadia Code, Consolas, Menlo, monospace" font-size="18" font-weight="400" text-anchor="start">vinay@ai-lab:~$ </text>
+<text x="200.8" y="365.2" fill="#EDF7FF" font-family="Cascadia Mono, Cascadia Code, Consolas, Menlo, monospace" font-size="18" font-weight="400" text-anchor="start">mission</text>
+<text x="28" y="393.2" fill="#93A9BF" font-family="Cascadia Mono, Cascadia Code, Consolas, Menlo, monospace" font-size="18" font-weight="400" text-anchor="start">Engineering intelligent systems that transform</text>
+<text x="28" y="421.2" fill="#93A9BF" font-family="Cascadia Mono, Cascadia Code, Consolas, Menlo, monospace" font-size="18" font-weight="400" text-anchor="start">complex problems into practical software.</text>
+<text x="28" y="461.8" fill="#00E5FF" font-family="Cascadia Mono, Cascadia Code, Consolas, Menlo, monospace" font-size="18" font-weight="400" text-anchor="start">vinay@ai-lab:~$ </text>
+<text x="200.8" y="461.8" fill="#EDF7FF" font-family="Cascadia Mono, Cascadia Code, Consolas, Menlo, monospace" font-size="18" font-weight="400" text-anchor="start">status</text>
+<text x="28" y="489.8" fill="#00E5FF" font-family="Cascadia Mono, Cascadia Code, Consolas, Menlo, monospace" font-size="18" font-weight="700" text-anchor="start">SYSTEMS ONLINE</text>
+<text x="28" y="517.8" fill="#EDF7FF" font-family="Cascadia Mono, Cascadia Code, Consolas, Menlo, monospace" font-size="18" font-weight="700" text-anchor="start">READY TO BUILD</text>
+<rect x="187.2" y="503.8" width="10" height="16" rx="0" fill="#00E5FF" stroke="none" stroke-width="1"/>
+</svg>

@@ -1,0 +1,11 @@
+{
+  "name": "vasamsettyvinay01-beep",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "visuals": "node scripts/generate-visuals.mjs",
+    "telemetry": "node scripts/generate-telemetry.mjs",
+    "terminal": "python scripts/generate-terminal.py",
+    "validate": "node scripts/validate.mjs"
+  }
+}

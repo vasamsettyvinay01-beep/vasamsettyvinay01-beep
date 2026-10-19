@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1160" height="180" viewBox="0 0 1160 180" role="img">
+<title>Vinay, systems online</title>
+<desc>Closing mark for Vinay Vasamsetty.</desc>
+<rect width="1160" height="180" fill="#070B14"/>
+<defs>
+  <pattern id="foot" width="32" height="32" patternUnits="userSpaceOnUse">
+    <path d="M32 0 H0 V32" fill="none" stroke="#00E5FF" stroke-opacity="0.075" stroke-width="1"/>
+  </pattern>
+</defs>
+<rect width="1160" height="180" fill="url(#foot)"/>
+<rect x="0.5" y="0.5" width="1159" height="179" fill="none" stroke="#2A4A68" stroke-width="1"/>
+<text x="48" y="72" fill="#EDF7FF" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="28" font-weight="700" text-anchor="start">LET'S BUILD WHAT'S NEXT.</text>
+<text x="48" y="112" fill="#00E5FF" font-family="Cascadia Mono, Cascadia Code, Consolas, Menlo, monospace" font-size="15" font-weight="400" text-anchor="start">VINAY  //  SYSTEMS ONLINE</text>
+<line x1="48" y1="140" x2="360" y2="140" stroke="#2A4A68" stroke-width="1" stroke-opacity="1" stroke-linecap="square"/>
+</svg>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1160" height="540" viewBox="0 0 1160 540" role="img">
+<title>What I engineer</title>
+<desc>Agentic systems, knowledge intelligence, AI platforms, and real-time software.</desc>
+<rect width="1160" height="540" fill="#070B14"/>
+<defs>
+  <pattern id="eng" width="32" height="32" patternUnits="userSpaceOnUse">
+    <path d="M32 0 H0 V32" fill="none" stroke="#00E5FF" stroke-opacity="0.075" stroke-width="1"/>
+  </pattern>
+</defs>
+<rect width="1160" height="540" fill="url(#eng)"/>
+<rect x="0.5" y="0.5" width="1159" height="539" fill="none" stroke="#2A4A68" stroke-width="1"/>
+<text x="40" y="56" fill="#EDF7FF" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="28" font-weight="700" text-anchor="start">WHAT I ENGINEER</text>
+<text x="40" y="88" fill="#93A9BF" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="400" text-anchor="start">Capability areas. Not claims about a specific deployment.</text>
+<rect x="40" y="124" width="536" height="180" rx="4" fill="#0B1323" stroke="#2A4A68" stroke-width="1"/>
+<rect x="40" y="124" width="536" height="3" rx="0" fill="#9470FF" stroke="none" stroke-width="1"/>
+<circle cx="76" cy="166" r="3" fill="#00E5FF" stroke="none" stroke-width="1.25" stroke-opacity="1"/>
+<circle cx="60" cy="178" r="3" fill="#398BFF" stroke="none" stroke-width="1.25" stroke-opacity="1"/>
+<circle cx="92" cy="178" r="3" fill="#9470FF" stroke="none" stroke-width="1.25" stroke-opacity="1"/>
+<line x1="76" y1="166" x2="60" y2="178" stroke="#398BFF" stroke-width="1.25" stroke-opacity="1" stroke-linecap="square"/>
+<line x1="76" y1="166" x2="92" y2="178" stroke="#9470FF" stroke-width="1.25" stroke-opacity="1" stroke-linecap="square"/>
+<text x="110" y="164" fill="#00E5FF" font-family="Cascadia Mono, Cascadia Code, Consolas, Menlo, monospace" font-size="13" font-weight="400" text-anchor="start">01</text>
+<text x="64" y="208" fill="#EDF7FF" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="20" font-weight="700" text-anchor="start">AGENTIC SYSTEMS</text>
+<text x="64" y="242" fill="#93A9BF" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="400" text-anchor="start">Multi-step workflows, orchestration, agent tools,</text>
+<text x="64" y="266" fill="#93A9BF" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="400" text-anchor="start">reasoning pipelines, and reliable execution.</text>
+<rect x="600" y="124" width="536" height="180" rx="4" fill="#0B1323" stroke="#2A4A68" stroke-width="1"/>
+<rect x="600" y="124" width="536" height="3" rx="0" fill="#00E5FF" stroke="none" stroke-width="1"/>
+<line x1="620" y1="166" x2="652" y2="166" stroke="#00E5FF" stroke-width="1.5" stroke-opacity="1" stroke-linecap="square"/>
+<line x1="620" y1="174" x2="652" y2="174" stroke="#398BFF" stroke-width="1.5" stroke-opacity="1" stroke-linecap="square"/>
+<line x1="620" y1="182" x2="652" y2="182" stroke="#398BFF" stroke-width="1.5" stroke-opacity="1" stroke-linecap="square"/>
+<text x="670" y="164" fill="#00E5FF" font-family="Cascadia Mono, Cascadia Code, Consolas, Menlo, monospace" font-size="13" font-weight="400" text-anchor="start">02</text>
+<text x="624" y="208" fill="#EDF7FF" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="20" font-weight="700" text-anchor="start">KNOWLEDGE INTELLIGENCE</text>
+<text x="624" y="242" fill="#93A9BF" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="400" text-anchor="start">RAG systems, document retrieval, embeddings, vector</text>
+<text x="624" y="266" fill="#93A9BF" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="400" text-anchor="start">databases, search, and grounded answers.</text>
+<rect x="40" y="324" width="536" height="180" rx="4" fill="#0B1323" stroke="#2A4A68" stroke-width="1"/>
+<rect x="40" y="324" width="536" height="3" rx="0" fill="#00E5FF" stroke="none" stroke-width="1"/>
+<rect x="58" y="358" width="28" height="8" rx="1" fill="none" stroke="#398BFF" stroke-width="1.25"/>
+<rect x="62" y="365" width="28" height="8" rx="1" fill="none" stroke="#00E5FF" stroke-width="1.25"/>
+<rect x="66" y="372" width="28" height="8" rx="1" fill="none" stroke="#398BFF" stroke-width="1.25"/>
+<text x="110" y="364" fill="#00E5FF" font-family="Cascadia Mono, Cascadia Code, Consolas, Menlo, monospace" font-size="13" font-weight="400" text-anchor="start">03</text>
+<text x="64" y="408" fill="#EDF7FF" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="20" font-weight="700" text-anchor="start">AI PLATFORMS</text>
+<text x="64" y="442" fill="#93A9BF" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="400" text-anchor="start">Full-stack intelligent applications, AI</text>
+<text x="64" y="466" fill="#93A9BF" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="400" text-anchor="start">infrastructure, backend APIs, and cloud systems.</text>
+<rect x="600" y="324" width="536" height="180" rx="4" fill="#0B1323" stroke="#2A4A68" stroke-width="1"/>
+<rect x="600" y="324" width="536" height="3" rx="0" fill="#00E5FF" stroke="none" stroke-width="1"/>
+<path d="M 618 372 H 628 L 634 356 L 642 374 H 654" fill="none" stroke="#00E5FF" stroke-width="1.5" stroke-opacity="1" stroke-linejoin="miter" stroke-linecap="square"/>
+<text x="670" y="364" fill="#00E5FF" font-family="Cascadia Mono, Cascadia Code, Consolas, Menlo, monospace" font-size="13" font-weight="400" text-anchor="start">04</text>
+<text x="624" y="408" fill="#EDF7FF" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="20" font-weight="700" text-anchor="start">REAL-TIME SOFTWARE</text>
+<text x="624" y="442" fill="#93A9BF" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="400" text-anchor="start">Interactive applications, modern frontend systems,</text>
+<text x="624" y="466" fill="#93A9BF" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="400" text-anchor="start">event-driven infrastructure, and production tools.</text>
+</svg>

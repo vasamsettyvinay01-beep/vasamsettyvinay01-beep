@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="1208" viewBox="0 0 720 1208" role="img">
+<title>Tools in public repositories</title>
+<desc>AI engineering direction plus frontend, backend, and cloud tools verified in public repositories.</desc>
+<rect width="720" height="1208" fill="#070B14"/>
+<defs>
+  <pattern id="skills-m" width="32" height="32" patternUnits="userSpaceOnUse">
+    <path d="M32 0 H0 V32" fill="none" stroke="#00E5FF" stroke-opacity="0.075" stroke-width="1"/>
+  </pattern>
+</defs>
+<rect width="720" height="1208" fill="url(#skills-m)"/>
+<rect x="0.5" y="0.5" width="719" height="1207" fill="none" stroke="#2A4A68" stroke-width="1"/>
+<text x="32" y="64" fill="#EDF7FF" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="32" font-weight="700" text-anchor="start">TOOLS</text>
+<text x="32" y="100" fill="#93A9BF" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="18" font-weight="400" text-anchor="start">Public repositories, with AI</text>
+<text x="32" y="126" fill="#93A9BF" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="18" font-weight="400" text-anchor="start">direction labeled separately.</text>
+<rect x="32" y="160" width="656" height="242" rx="4" fill="#0B1323" stroke="#2A4A68" stroke-width="1"/>
+<rect x="32" y="160" width="656" height="3" rx="0" fill="#9470FF" stroke="none" stroke-width="1"/>
+<text x="50" y="196" fill="#EDF7FF" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="20" font-weight="700" text-anchor="start">01   AI ENGINEERING</text>
+<text x="50" y="220" fill="#9470FF" font-family="Cascadia Mono, Cascadia Code, Consolas, Menlo, monospace" font-size="13" font-weight="400" text-anchor="start">DIRECTION</text>
+<rect x="50" y="248" width="8" height="8" rx="0" fill="#00E5FF" stroke="none" stroke-width="1"/>
+<text x="70" y="258" fill="#EDF7FF" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="18" font-weight="400" text-anchor="start">Agentic workflows</text>
+<rect x="50" y="280" width="8" height="8" rx="0" fill="#00E5FF" stroke="none" stroke-width="1"/>
+<text x="70" y="290" fill="#EDF7FF" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="18" font-weight="400" text-anchor="start">Knowledge systems</text>
+<rect x="50" y="312" width="8" height="8" rx="0" fill="#00E5FF" stroke="none" stroke-width="1"/>
+<text x="70" y="322" fill="#EDF7FF" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="18" font-weight="400" text-anchor="start">Orchestration</text>
+<rect x="50" y="344" width="8" height="8" rx="0" fill="#00E5FF" stroke="none" stroke-width="1"/>
+<text x="70" y="354" fill="#EDF7FF" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="18" font-weight="400" text-anchor="start">Evaluation</text>
+<rect x="32" y="418" width="656" height="306" rx="4" fill="#0B1323" stroke="#2A4A68" stroke-width="1"/>
+<rect x="32" y="418" width="656" height="3" rx="0" fill="#00E5FF" stroke="none" stroke-width="1"/>
+<text x="50" y="454" fill="#EDF7FF" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="20" font-weight="700" text-anchor="start">02   FRONTEND</text>
+<text x="50" y="478" fill="#9470FF" font-family="Cascadia Mono, Cascadia Code, Consolas, Menlo, monospace" font-size="13" font-weight="400" text-anchor="start">PUBLIC REPOS</text>
+<rect x="50" y="506" width="8" height="8" rx="0" fill="#00E5FF" stroke="none" stroke-width="1"/>
+<text x="70" y="516" fill="#EDF7FF" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="18" font-weight="400" text-anchor="start">TypeScript</text>
+<rect x="50" y="538" width="8" height="8" rx="0" fill="#00E5FF" stroke="none" stroke-width="1"/>
+<text x="70" y="548" fill="#EDF7FF" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="18" font-weight="400" text-anchor="start">React</text>
+<rect x="50" y="570" width="8" height="8" rx="0" fill="#00E5FF" stroke="none" stroke-width="1"/>
+<text x="70" y="580" fill="#EDF7FF" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="18" font-weight="400" text-anchor="start">Next.js</text>
+<rect x="50" y="602" width="8" height="8" rx="0" fill="#00E5FF" stroke="none" stroke-width="1"/>
+<text x="70" y="612" fill="#EDF7FF" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="18" font-weight="400" text-anchor="start">Tailwind CSS</text>
+<rect x="50" y="634" width="8" height="8" rx="0" fill="#00E5FF" stroke="none" stroke-width="1"/>
+<text x="70" y="644" fill="#EDF7FF" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="18" font-weight="400" text-anchor="start">Motion</text>
+<rect x="50" y="666" width="8" height="8" rx="0" fill="#00E5FF" stroke="none" stroke-width="1"/>
+<text x="70" y="676" fill="#EDF7FF" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="18" font-weight="400" text-anchor="start">Three.js</text>
+<rect x="32" y="740" width="656" height="242" rx="4" fill="#0B1323" stroke="#2A4A68" stroke-width="1"/>
+<rect x="32" y="740" width="656" height="3" rx="0" fill="#00E5FF" stroke="none" stroke-width="1"/>
+<text x="50" y="776" fill="#EDF7FF" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="20" font-weight="700" text-anchor="start">03   BACKEND &amp; DATA</text>
+<text x="50" y="800" fill="#9470FF" font-family="Cascadia Mono, Cascadia Code, Consolas, Menlo, monospace" font-size="13" font-weight="400" text-anchor="start">PUBLIC REPOS</text>
+<rect x="50" y="828" width="8" height="8" rx="0" fill="#00E5FF" stroke="none" stroke-width="1"/>
+<text x="70" y="838" fill="#EDF7FF" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="18" font-weight="400" text-anchor="start">Node.js</text>
+<rect x="50" y="860" width="8" height="8" rx="0" fill="#00E5FF" stroke="none" stroke-width="1"/>
+<text x="70" y="870" fill="#EDF7FF" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="18" font-weight="400" text-anchor="start">Supabase</text>
+<rect x="50" y="892" width="8" height="8" rx="0" fill="#00E5FF" stroke="none" stroke-width="1"/>
+<text x="70" y="902" fill="#EDF7FF" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="18" font-weight="400" text-anchor="start">PostgreSQL</text>
+<rect x="50" y="924" width="8" height="8" rx="0" fill="#00E5FF" stroke="none" stroke-width="1"/>
+<text x="70" y="934" fill="#EDF7FF" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="18" font-weight="400" text-anchor="start">Stripe</text>
+<rect x="32" y="998" width="656" height="178" rx="4" fill="#0B1323" stroke="#2A4A68" stroke-width="1"/>
+<rect x="32" y="998" width="656" height="3" rx="0" fill="#00E5FF" stroke="none" stroke-width="1"/>
+<text x="50" y="1034" fill="#EDF7FF" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="20" font-weight="700" text-anchor="start">04   CLOUD &amp; DEVOPS</text>
+<text x="50" y="1058" fill="#9470FF" font-family="Cascadia Mono, Cascadia Code, Consolas, Menlo, monospace" font-size="13" font-weight="400" text-anchor="start">PUBLIC REPOS</text>
+<rect x="50" y="1086" width="8" height="8" rx="0" fill="#00E5FF" stroke="none" stroke-width="1"/>
+<text x="70" y="1096" fill="#EDF7FF" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="18" font-weight="400" text-anchor="start">GitHub Actions</text>
+<rect x="50" y="1118" width="8" height="8" rx="0" fill="#00E5FF" stroke="none" stroke-width="1"/>
+<text x="70" y="1128" fill="#EDF7FF" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="18" font-weight="400" text-anchor="start">Hostinger</text>
+</svg>

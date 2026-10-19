@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="916" viewBox="0 0 720 916" role="img">
+<title>How I think about intelligent systems</title>
+<desc>Illustrative flow from user and application through an API layer, AI orchestrator, retrieval, agents, tools, validation, and grounded output.</desc>
+<rect width="720" height="916" fill="#070B14"/>
+<defs>
+  <pattern id="arch-m" width="32" height="32" patternUnits="userSpaceOnUse">
+    <path d="M32 0 H0 V32" fill="none" stroke="#00E5FF" stroke-opacity="0.075" stroke-width="1"/>
+  </pattern>
+</defs>
+<rect width="720" height="916" fill="url(#arch-m)"/>
+<rect x="0.5" y="0.5" width="719" height="915" fill="none" stroke="#2A4A68" stroke-width="1"/>
+<text x="32" y="58" fill="#EDF7FF" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="26" font-weight="700" text-anchor="start">HOW I THINK ABOUT INTELLIGENT SYSTEMS</text>
+<text x="32" y="92" fill="#93A9BF" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="400" text-anchor="start">An illustrative reference model. Not a</text>
+<text x="32" y="116" fill="#93A9BF" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="400" text-anchor="start">diagram of a specific private system.</text>
+<rect x="32" y="150" width="656" height="72" rx="4" fill="#0B1323" stroke="#2A4A68" stroke-width="1"/>
+<text x="48" y="180" fill="#EDF7FF" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="20" font-weight="700" text-anchor="start">01   User / Application</text>
+<text x="48" y="204" fill="#93A9BF" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" text-anchor="start">People and product surfaces</text>
+<line x1="360" y1="222" x2="360" y2="244" stroke="#398BFF" stroke-width="1.25" stroke-opacity="1" stroke-linecap="square"/>
+<rect x="32" y="244" width="656" height="72" rx="4" fill="#0B1323" stroke="#2A4A68" stroke-width="1"/>
+<text x="48" y="274" fill="#EDF7FF" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="20" font-weight="700" text-anchor="start">02   API / Interface Layer</text>
+<text x="48" y="298" fill="#93A9BF" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" text-anchor="start">Requests, sessions, contracts</text>
+<line x1="360" y1="316" x2="360" y2="338" stroke="#398BFF" stroke-width="1.25" stroke-opacity="1" stroke-linecap="square"/>
+<rect x="32" y="338" width="656" height="72" rx="4" fill="#0B1323" stroke="#00E5FF" stroke-width="1.5"/>
+<text x="48" y="368" fill="#EDF7FF" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="20" font-weight="700" text-anchor="start">03   AI Orchestrator</text>
+<text x="48" y="392" fill="#93A9BF" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" text-anchor="start">Plans the work and routes it</text>
+<line x1="360" y1="410" x2="360" y2="432" stroke="#398BFF" stroke-width="1.25" stroke-opacity="1" stroke-linecap="square"/>
+<rect x="32" y="432" width="656" height="72" rx="4" fill="#0B1323" stroke="#2A4A68" stroke-width="1"/>
+<text x="48" y="462" fill="#EDF7FF" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="20" font-weight="700" text-anchor="start">04   Retrieval / RAG</text>
+<text x="48" y="486" fill="#93A9BF" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" text-anchor="start">Search and grounded context</text>
+<line x1="360" y1="504" x2="360" y2="526" stroke="#398BFF" stroke-width="1.25" stroke-opacity="1" stroke-linecap="square"/>
+<rect x="32" y="526" width="656" height="72" rx="4" fill="#0B1323" stroke="#2A4A68" stroke-width="1"/>
+<text x="48" y="556" fill="#EDF7FF" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="20" font-weight="700" text-anchor="start">05   Specialized AI Agents</text>
+<text x="48" y="580" fill="#93A9BF" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" text-anchor="start">Focused reasoning steps</text>
+<line x1="360" y1="598" x2="360" y2="620" stroke="#398BFF" stroke-width="1.25" stroke-opacity="1" stroke-linecap="square"/>
+<rect x="32" y="620" width="656" height="72" rx="4" fill="#0B1323" stroke="#2A4A68" stroke-width="1"/>
+<text x="48" y="650" fill="#EDF7FF" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="20" font-weight="700" text-anchor="start">06   Tools / External Systems</text>
+<text x="48" y="674" fill="#93A9BF" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" text-anchor="start">Actions outside the model</text>
+<line x1="360" y1="692" x2="360" y2="714" stroke="#398BFF" stroke-width="1.25" stroke-opacity="1" stroke-linecap="square"/>
+<rect x="32" y="714" width="656" height="72" rx="4" fill="#0B1323" stroke="#2A4A68" stroke-width="1"/>
+<text x="48" y="744" fill="#EDF7FF" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="20" font-weight="700" text-anchor="start">07   Validation + Evaluation</text>
+<text x="48" y="768" fill="#93A9BF" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" text-anchor="start">Checks before anything ships</text>
+<line x1="360" y1="786" x2="360" y2="808" stroke="#398BFF" stroke-width="1.25" stroke-opacity="1" stroke-linecap="square"/>
+<rect x="32" y="808" width="656" height="72" rx="4" fill="#0B1323" stroke="#398BFF" stroke-width="1.5"/>
+<text x="48" y="838" fill="#EDF7FF" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="20" font-weight="700" text-anchor="start">08   Grounded Output / Actions</text>
+<text x="48" y="862" fill="#93A9BF" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" text-anchor="start">Answers and side effects</text>
+</svg>

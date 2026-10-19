@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1160" height="620" viewBox="0 0 1160 620" role="img">
+<title>Tools in public repositories</title>
+<desc>AI engineering direction plus frontend, backend, and cloud tools verified in public repositories.</desc>
+<rect width="1160" height="620" fill="#070B14"/>
+<defs>
+  <pattern id="skills" width="32" height="32" patternUnits="userSpaceOnUse">
+    <path d="M32 0 H0 V32" fill="none" stroke="#00E5FF" stroke-opacity="0.075" stroke-width="1"/>
+  </pattern>
+</defs>
+<rect width="1160" height="620" fill="url(#skills)"/>
+<rect x="0.5" y="0.5" width="1159" height="619" fill="none" stroke="#2A4A68" stroke-width="1"/>
+<text x="40" y="58" fill="#EDF7FF" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="28" font-weight="700" text-anchor="start">TOOLS</text>
+<text x="40" y="90" fill="#93A9BF" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="400" text-anchor="start">Grouped from public repositories, with AI direction labeled separately from verified tools.</text>
+<rect x="40" y="124" width="264" height="456" rx="4" fill="#0B1323" stroke="#2A4A68" stroke-width="1"/>
+<rect x="40" y="124" width="264" height="3" rx="0" fill="#9470FF" stroke="none" stroke-width="1"/>
+<text x="58" y="160" fill="#00E5FF" font-family="Cascadia Mono, Cascadia Code, Consolas, Menlo, monospace" font-size="13" font-weight="400" text-anchor="start">01</text>
+<text x="58" y="192" fill="#EDF7FF" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" text-anchor="start">AI ENGINEERING</text>
+<text x="58" y="216" fill="#9470FF" font-family="Cascadia Mono, Cascadia Code, Consolas, Menlo, monospace" font-size="12" font-weight="400" text-anchor="start">DIRECTION</text>
+<rect x="58" y="248" width="8" height="8" rx="0" fill="#00E5FF" stroke="none" stroke-width="1"/>
+<text x="76" y="258" fill="#EDF7FF" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="400" text-anchor="start">Agentic workflows</text>
+<rect x="58" y="280" width="8" height="8" rx="0" fill="#00E5FF" stroke="none" stroke-width="1"/>
+<text x="76" y="290" fill="#EDF7FF" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="400" text-anchor="start">Knowledge systems</text>
+<rect x="58" y="312" width="8" height="8" rx="0" fill="#00E5FF" stroke="none" stroke-width="1"/>
+<text x="76" y="322" fill="#EDF7FF" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="400" text-anchor="start">Orchestration</text>
+<rect x="58" y="344" width="8" height="8" rx="0" fill="#00E5FF" stroke="none" stroke-width="1"/>
+<text x="76" y="354" fill="#EDF7FF" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="400" text-anchor="start">Evaluation</text>
+<text x="58" y="500" fill="#93A9BF" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13" font-weight="400" text-anchor="start">Focus areas. Model SDKs are</text>
+<text x="58" y="518" fill="#93A9BF" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13" font-weight="400" text-anchor="start">omitted until they appear in</text>
+<text x="58" y="536" fill="#93A9BF" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13" font-weight="400" text-anchor="start">public code.</text>
+<rect x="320" y="124" width="264" height="456" rx="4" fill="#0B1323" stroke="#2A4A68" stroke-width="1"/>
+<rect x="320" y="124" width="264" height="3" rx="0" fill="#00E5FF" stroke="none" stroke-width="1"/>
+<text x="338" y="160" fill="#00E5FF" font-family="Cascadia Mono, Cascadia Code, Consolas, Menlo, monospace" font-size="13" font-weight="400" text-anchor="start">02</text>
+<text x="338" y="192" fill="#EDF7FF" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" text-anchor="start">FRONTEND</text>
+<text x="338" y="216" fill="#9470FF" font-family="Cascadia Mono, Cascadia Code, Consolas, Menlo, monospace" font-size="12" font-weight="400" text-anchor="start">PUBLIC REPOS</text>
+<rect x="338" y="248" width="8" height="8" rx="0" fill="#00E5FF" stroke="none" stroke-width="1"/>
+<text x="356" y="258" fill="#EDF7FF" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="400" text-anchor="start">TypeScript</text>
+<rect x="338" y="280" width="8" height="8" rx="0" fill="#00E5FF" stroke="none" stroke-width="1"/>
+<text x="356" y="290" fill="#EDF7FF" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="400" text-anchor="start">React</text>
+<rect x="338" y="312" width="8" height="8" rx="0" fill="#00E5FF" stroke="none" stroke-width="1"/>
+<text x="356" y="322" fill="#EDF7FF" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="400" text-anchor="start">Next.js</text>
+<rect x="338" y="344" width="8" height="8" rx="0" fill="#00E5FF" stroke="none" stroke-width="1"/>
+<text x="356" y="354" fill="#EDF7FF" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="400" text-anchor="start">Tailwind CSS</text>
+<rect x="338" y="376" width="8" height="8" rx="0" fill="#00E5FF" stroke="none" stroke-width="1"/>
+<text x="356" y="386" fill="#EDF7FF" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="400" text-anchor="start">Motion</text>
+<rect x="338" y="408" width="8" height="8" rx="0" fill="#00E5FF" stroke="none" stroke-width="1"/>
+<text x="356" y="418" fill="#EDF7FF" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="400" text-anchor="start">Three.js</text>
+<text x="338" y="500" fill="#93A9BF" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13" font-weight="400" text-anchor="start">Interfaces in the public</text>
+<text x="338" y="518" fill="#93A9BF" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13" font-weight="400" text-anchor="start">repositories.</text>
+<rect x="600" y="124" width="264" height="456" rx="4" fill="#0B1323" stroke="#2A4A68" stroke-width="1"/>
+<rect x="600" y="124" width="264" height="3" rx="0" fill="#00E5FF" stroke="none" stroke-width="1"/>
+<text x="618" y="160" fill="#00E5FF" font-family="Cascadia Mono, Cascadia Code, Consolas, Menlo, monospace" font-size="13" font-weight="400" text-anchor="start">03</text>
+<text x="618" y="192" fill="#EDF7FF" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" text-anchor="start">BACKEND &amp; DATA</text>
+<text x="618" y="216" fill="#9470FF" font-family="Cascadia Mono, Cascadia Code, Consolas, Menlo, monospace" font-size="12" font-weight="400" text-anchor="start">PUBLIC REPOS</text>
+<rect x="618" y="248" width="8" height="8" rx="0" fill="#00E5FF" stroke="none" stroke-width="1"/>
+<text x="636" y="258" fill="#EDF7FF" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="400" text-anchor="start">Node.js</text>
+<rect x="618" y="280" width="8" height="8" rx="0" fill="#00E5FF" stroke="none" stroke-width="1"/>
+<text x="636" y="290" fill="#EDF7FF" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="400" text-anchor="start">Supabase</text>
+<rect x="618" y="312" width="8" height="8" rx="0" fill="#00E5FF" stroke="none" stroke-width="1"/>
+<text x="636" y="322" fill="#EDF7FF" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="400" text-anchor="start">PostgreSQL</text>
+<rect x="618" y="344" width="8" height="8" rx="0" fill="#00E5FF" stroke="none" stroke-width="1"/>
+<text x="636" y="354" fill="#EDF7FF" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="400" text-anchor="start">Stripe</text>
+<text x="618" y="500" fill="#93A9BF" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13" font-weight="400" text-anchor="start">Services and data layers in</text>
+<text x="618" y="518" fill="#93A9BF" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13" font-weight="400" text-anchor="start">public code.</text>
+<rect x="880" y="124" width="264" height="456" rx="4" fill="#0B1323" stroke="#2A4A68" stroke-width="1"/>
+<rect x="880" y="124" width="264" height="3" rx="0" fill="#00E5FF" stroke="none" stroke-width="1"/>
+<text x="898" y="160" fill="#00E5FF" font-family="Cascadia Mono, Cascadia Code, Consolas, Menlo, monospace" font-size="13" font-weight="400" text-anchor="start">04</text>
+<text x="898" y="192" fill="#EDF7FF" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" text-anchor="start">CLOUD &amp; DEVOPS</text>
+<text x="898" y="216" fill="#9470FF" font-family="Cascadia Mono, Cascadia Code, Consolas, Menlo, monospace" font-size="12" font-weight="400" text-anchor="start">PUBLIC REPOS</text>
+<rect x="898" y="248" width="8" height="8" rx="0" fill="#00E5FF" stroke="none" stroke-width="1"/>
+<text x="916" y="258" fill="#EDF7FF" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="400" text-anchor="start">GitHub Actions</text>
+<rect x="898" y="280" width="8" height="8" rx="0" fill="#00E5FF" stroke="none" stroke-width="1"/>
+<text x="916" y="290" fill="#EDF7FF" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="400" text-anchor="start">Hostinger</text>
+<text x="898" y="500" fill="#93A9BF" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13" font-weight="400" text-anchor="start">Delivery tooling present in</text>
+<text x="898" y="518" fill="#93A9BF" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13" font-weight="400" text-anchor="start">public code.</text>
+</svg>

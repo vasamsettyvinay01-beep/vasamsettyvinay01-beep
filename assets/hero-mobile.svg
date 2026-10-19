@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="920" viewBox="0 0 720 920" role="img">
+<title>Vinay Vasamsetty, Founder and AI Systems Engineer</title>
+<desc>Engineering Intelligence Into Reality. System online. Agentic intelligence. Build mode active.</desc>
+<rect width="720" height="920" fill="#070B14"/>
+<defs>
+  <pattern id="hero-m" width="32" height="32" patternUnits="userSpaceOnUse">
+    <path d="M32 0 H0 V32" fill="none" stroke="#00E5FF" stroke-opacity="0.075" stroke-width="1"/>
+  </pattern>
+</defs>
+<rect width="720" height="920" fill="url(#hero-m)"/>
+<rect x="0.5" y="0.5" width="719" height="919" fill="none" stroke="#2A4A68" stroke-width="1"/>
+<text x="36" y="64" fill="#93A9BF" font-family="Cascadia Mono, Cascadia Code, Consolas, Menlo, monospace" font-size="15" font-weight="400" text-anchor="start">VINAY  //  AI SYSTEMS COMMAND CENTER</text>
+<rect x="36" y="118" width="145" height="38" rx="2" fill="#0B1323" stroke="#145E6B" stroke-width="1"/>
+<text x="48" y="142.1" fill="#00E5FF" font-family="Cascadia Mono, Cascadia Code, Consolas, Menlo, monospace" font-size="15" font-weight="500" text-anchor="start">SYSTEM ONLINE</text>
+<rect x="189" y="118" width="210" height="38" rx="2" fill="#0B1323" stroke="#2A4A68" stroke-width="1"/>
+<text x="201" y="142.1" fill="#EDF7FF" font-family="Cascadia Mono, Cascadia Code, Consolas, Menlo, monospace" font-size="15" font-weight="500" text-anchor="start">AGENTIC INTELLIGENCE</text>
+<rect x="407" y="118" width="191" height="38" rx="2" fill="#0B1323" stroke="#2A4A68" stroke-width="1"/>
+<text x="419" y="142.1" fill="#EDF7FF" font-family="Cascadia Mono, Cascadia Code, Consolas, Menlo, monospace" font-size="15" font-weight="500" text-anchor="start">BUILD MODE: ACTIVE</text>
+<text x="36" y="292" fill="#EDF7FF" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="68" font-weight="700" text-anchor="start">VINAY</text>
+<text x="36" y="366" fill="#EDF7FF" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="68" font-weight="700" text-anchor="start">VASAMSETTY</text>
+<text x="36" y="422" fill="#00E5FF" font-family="Cascadia Mono, Cascadia Code, Consolas, Menlo, monospace" font-size="20" font-weight="400" text-anchor="start">FOUNDER  //  AI SYSTEMS ENGINEER</text>
+<text x="36" y="470" fill="#EDF7FF" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="28" font-weight="400" text-anchor="start">Engineering Intelligence</text>
+<text x="36" y="508" fill="#EDF7FF" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="28" font-weight="400" text-anchor="start">Into Reality.</text>
+<rect x="36" y="560" width="648" height="320" rx="6" fill="#0B1323" stroke="#2A4A68" stroke-width="1"/>
+<text x="54" y="592" fill="#93A9BF" font-family="Cascadia Mono, Cascadia Code, Consolas, Menlo, monospace" font-size="14" font-weight="400" text-anchor="start">NODE FIELD  /  REFERENCE</text>
+<line x1="336.64" y1="722.32" x2="255.92" y2="672.02" stroke="#398BFF" stroke-width="1.25" stroke-opacity="0.9" stroke-linecap="square"/>
+<line x1="384.68" y1="724.71" x2="470.13" y2="682.57" stroke="#398BFF" stroke-width="1.25" stroke-opacity="0.9" stroke-linecap="square"/>
+<line x1="381.62" y1="753.91" x2="460.01" y2="815.68" stroke="#398BFF" stroke-width="1.25" stroke-opacity="0.9" stroke-linecap="square"/>
+<line x1="339.41" y1="755.14" x2="266.23" y2="820.07" stroke="#398BFF" stroke-width="1.25" stroke-opacity="0.9" stroke-linecap="square"/>
+<line x1="361.51" y1="709.4" x2="366.08" y2="625.92" stroke="#398BFF" stroke-width="1.25" stroke-opacity="0.9" stroke-linecap="square"/>
+<path d="M 179.4 747.2 H 215.52 V 699.04 H 237.88" fill="none" stroke="#00E5FF" stroke-width="1" stroke-opacity="0.35" stroke-linejoin="miter" stroke-linecap="square"/>
+<path d="M 544.04 760.96 H 511.36 V 797.08 H 487.28" fill="none" stroke="#9470FF" stroke-width="1" stroke-opacity="0.45" stroke-linejoin="miter" stroke-linecap="square"/>
+<circle cx="360" cy="736.88" r="24.08" fill="#10243A" stroke="#00E5FF" stroke-width="1.75" stroke-opacity="1"/>
+<circle cx="360" cy="736.88" r="3.85" fill="#00E5FF" stroke="none" stroke-width="1.25" stroke-opacity="1"/>
+<text x="360" y="774.72" fill="#00E5FF" font-family="Cascadia Mono, Cascadia Code, Consolas, Menlo, monospace" font-size="11" font-weight="500" text-anchor="middle">ORCH</text>
+<circle cx="241.32" cy="662.92" r="13.76" fill="#0B1323" stroke="#2A4A68" stroke-width="1.25" stroke-opacity="1"/>
+<circle cx="241.32" cy="662.92" r="2.5" fill="#398BFF" stroke="none" stroke-width="1.25" stroke-opacity="1"/>
+<text x="241.32" y="690.44" fill="#93A9BF" font-family="Cascadia Mono, Cascadia Code, Consolas, Menlo, monospace" font-size="11" font-weight="500" text-anchor="middle">RAG</text>
+<circle cx="485.56" cy="674.96" r="13.76" fill="#0B1323" stroke="#2A4A68" stroke-width="1.25" stroke-opacity="1"/>
+<circle cx="485.56" cy="674.96" r="2.5" fill="#398BFF" stroke="none" stroke-width="1.25" stroke-opacity="1"/>
+<text x="485.56" y="702.48" fill="#93A9BF" font-family="Cascadia Mono, Cascadia Code, Consolas, Menlo, monospace" font-size="11" font-weight="500" text-anchor="middle">AGENTS</text>
+<circle cx="473.52" cy="826.32" r="13.76" fill="#0B1323" stroke="#2A4A68" stroke-width="1.25" stroke-opacity="1"/>
+<circle cx="473.52" cy="826.32" r="2.5" fill="#398BFF" stroke="none" stroke-width="1.25" stroke-opacity="1"/>
+<text x="473.52" y="853.84" fill="#93A9BF" font-family="Cascadia Mono, Cascadia Code, Consolas, Menlo, monospace" font-size="11" font-weight="500" text-anchor="middle">TOOLS</text>
+<circle cx="253.36" cy="831.48" r="13.76" fill="#0B1323" stroke="#2A4A68" stroke-width="1.25" stroke-opacity="1"/>
+<circle cx="253.36" cy="831.48" r="2.5" fill="#398BFF" stroke="none" stroke-width="1.25" stroke-opacity="1"/>
+<text x="253.36" y="859" fill="#93A9BF" font-family="Cascadia Mono, Cascadia Code, Consolas, Menlo, monospace" font-size="11" font-weight="500" text-anchor="middle">EVAL</text>
+<circle cx="366.88" cy="611.32" r="11.18" fill="#0B1323" stroke="#2A4A68" stroke-width="1.25" stroke-opacity="1"/>
+<circle cx="366.88" cy="611.32" r="2.5" fill="#398BFF" stroke="none" stroke-width="1.25" stroke-opacity="1"/>
+<text x="366.88" y="636.26" fill="#93A9BF" font-family="Cascadia Mono, Cascadia Code, Consolas, Menlo, monospace" font-size="11" font-weight="500" text-anchor="middle">API</text>
+</svg>

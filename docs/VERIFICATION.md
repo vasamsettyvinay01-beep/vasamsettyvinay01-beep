@@ -30,8 +30,13 @@ Repositories that were not public at publish time are not described.
 - https://github.com/vasamsettyvinay01-beep/onemorewebsite — public
 - LinkedIn URL is the profile supplied for this account. The site blocked an automated fetch, so the page body was not re-read.
 
+## Automation
+
+Workflow run `39185841032` completed successfully and committed the contribution snake GIF and the 3D contribution SVG.
+
 ## Known limits
 
 - GitHub README images cannot run JavaScript. Terminal motion is a GIF. Reduced motion uses the static SVG.
-- The contribution snake GIF and 3D contribution graph are produced by the telemetry workflow. They are added to the README only after that workflow publishes the files.
-- Animated SVG is not used for the terminal or hero, because GitHub's image proxy can strip SVG animation and style.
+- The contribution snake SVG uses CSS animation, which GitHub's image proxy can strip. The README shows the GIF.
+- The 3D graph SVG uses a style block. The README shows a PNG rendered from that SVG so the chart remains intact.
+- The 3D language donut uses repository primary language. The telemetry card uses Linguist bytes and excludes this profile repository.

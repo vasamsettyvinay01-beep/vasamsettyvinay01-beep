@@ -85,6 +85,14 @@ READY TO BUILD
 
 Language share is GitHub Linguist bytes across public repositories except this profile repository. Contributions are the last-year profile calendar. Stars count every public repository. Figures are regenerated daily. This is not a realtime monitor.
 
+![Contribution snake crossing the public GitHub calendar. Violet marks the snake. Cyan marks contribution days.](./assets/activity/contribution-snake.gif)
+
+The snake is the same public calendar, drawn by [snk](https://github.com/Platane/snk). It is a GIF because GitHub does not reliably animate SVG.
+
+![3D contribution graph with a contribution calendar, language donut, and activity radar.](./assets/activity/profile-3d.png)
+
+The 3D graph is rendered from [github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib). Its language donut follows each repository's primary language, which is a different measure from the byte chart above. The PNG is the display version. The source SVG is in `assets/activity`.
+
 ## Tools
 
 <picture>

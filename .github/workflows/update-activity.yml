@@ -50,6 +50,11 @@ jobs:
           mv profile-3d-contrib/profile-3d.svg assets/activity/profile-3d.svg
           rm -rf profile-3d-contrib
 
+      - name: Rasterize 3D graph
+        run: |
+          npm ci
+          node scripts/rasterize-3d.mjs
+
       - name: Generate telemetry cards
         env:
           GH_TOKEN: ${{ github.token }}

@@ -396,6 +396,7 @@
 <rect x="552" y="450" width="8" height="8" rx="1" fill="#0B1323" stroke="none" stroke-width="1"/>
 <rect x="552" y="460" width="8" height="8" rx="1" fill="#0B1323" stroke="none" stroke-width="1"/>
 <rect x="552" y="470" width="8" height="8" rx="1" fill="#0B1323" stroke="none" stroke-width="1"/>
+<rect x="552" y="480" width="8" height="8" rx="1" fill="#0B1323" stroke="none" stroke-width="1"/>
 <text x="32" y="526" fill="#00E5FF" font-family="Cascadia Mono, Cascadia Code, Consolas, Menlo, monospace" font-size="14" font-weight="400" text-anchor="start">LANGUAGE SHARE</text>
 <text x="32" y="562" fill="#EDF7FF" font-family="Cascadia Mono, Cascadia Code, Consolas, Menlo, monospace" font-size="16" font-weight="400" text-anchor="start">TYPESCRIPT</text>
 <text x="688" y="562" fill="#00E5FF" font-family="Cascadia Mono, Cascadia Code, Consolas, Menlo, monospace" font-size="16" font-weight="400" text-anchor="end">83.5%</text>

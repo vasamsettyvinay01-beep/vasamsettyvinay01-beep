@@ -1,75 +1,43 @@
 {
   "login": "vasamsettyvinay01-beep",
-  "fetchedAt": "2026-11-07T16:49:48.099Z",
+  "fetchedAt": "2026-11-08T17:01:50.879Z",
   "publicRepos": 3,
   "inspectedPublicRepos": 3,
   "publicStars": 0,
   "projectRepos": 2,
-  "contributionsLastYear": 86,
-  "languageBytes": 1441608,
+  "contributionsLastYear": 90,
+  "languageBytes": 1462285,
   "languages": [
     {
       "name": "TypeScript",
-      "bytes": 992034,
-      "pct": 688,
-      "remainder": 0.14407245242819045,
-      "percent": 68.8
+      "bytes": 995482,
+      "pct": 681,
+      "remainder": 0.7715322252502119,
+      "percent": 68.1
     },
     {
       "name": "JavaScript",
-      "bytes": 299994,
-      "pct": 208,
-      "remainder": 0.09679191569412637,
-      "percent": 20.8
+      "bytes": 313565,
+      "pct": 214,
+      "remainder": 0.4349425727542666,
+      "percent": 21.4
     },
     {
       "name": "PLpgSQL",
-      "bytes": 126086,
-      "pct": 88,
-      "remainder": 0.462056259399219,
-      "percent": 8.8
+      "bytes": 129744,
+      "pct": 89,
+      "remainder": 0.7268897649910855,
+      "percent": 8.9
     },
     {
       "name": "CSS",
       "bytes": 23494,
       "pct": 16,
-      "remainder": 0.29707937247851035,
+      "remainder": 0.06663543700441465,
       "percent": 1.6
     }
   ],
   "weeks": [
-    {
-      "contributionDays": [
-        {
-          "date": "2025-11-02",
-          "contributionCount": 0
-        },
-        {
-          "date": "2025-11-03",
-          "contributionCount": 0
-        },
-        {
-          "date": "2025-11-04",
-          "contributionCount": 0
-        },
-        {
-          "date": "2025-11-05",
-          "contributionCount": 0
-        },
-        {
-          "date": "2025-11-06",
-          "contributionCount": 0
-        },
-        {
-          "date": "2025-11-07",
-          "contributionCount": 0
-        },
-        {
-          "date": "2025-11-08",
-          "contributionCount": 0
-        }
-      ]
-    },
     {
       "contributionDays": [
         {
@@ -1730,7 +1698,15 @@
         },
         {
           "date": "2026-11-07",
-          "contributionCount": 1
+          "contributionCount": 5
+        }
+      ]
+    },
+    {
+      "contributionDays": [
+        {
+          "date": "2026-11-08",
+          "contributionCount": 0
         }
       ]
     }
@@ -1738,7 +1714,7 @@
   "activity": [
     {
       "repo": "onemorewebsite",
-      "pushedAt": "2026-11-07T09:45:09Z",
+      "pushedAt": "2026-11-08T04:17:34Z",
       "label": "Cinematic brand site and ticketing"
     },
     {
